@@ -125,9 +125,10 @@ nav ul {
     transform:scale(1.05);
 }
 
+
 #about {
   padding: 0 60px;
-  max-width:900px;
+  width:97%;
   margin: auto;
   line-height: 1.6;
 }
@@ -223,7 +224,7 @@ nav ul {
 
 #comm {
   padding: 60px 60px;
-  max-width:900px;
+  width:97%;
   margin: auto;
   line-height: 1.6;
 }
